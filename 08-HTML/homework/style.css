@@ -1,0 +1,39 @@
+div{
+    text-align: center;
+   }
+   
+   h1{
+       color: navy;
+   }
+   
+   #spanId{
+       margin: 50px;
+       font-size: 18px;
+   }
+
+   img{
+       float: right;
+       width: 400px;
+   }
+
+   #thirdDiv{
+       margin-right: auto;
+       margin-left: auto;
+       border: 4px solid gold;
+       padding: 50px;
+       width:  500px;
+       height: 600px;
+       background-color: blueviolet;
+       /*<!-- -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+       box-sizing: border-box */
+   }
+       
+   body{
+       background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-queso_1236-182.jpg?size=338&ext=jpg);
+       background-position: center center;
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-size: cover;
+       background-color: yellow;
+   }
